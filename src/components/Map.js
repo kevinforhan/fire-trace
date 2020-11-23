@@ -34,8 +34,8 @@ const Map = ({ eventData, center, zoom }) => {
 //if locationInfo then display locationinfo component and pass in info as a prop
 Map.defaultProps = {
   center: {
-    lat: 42.32656,
-    lng: -122.8756,
+    lat: 38.5816,
+    lng: -121.4944,
   },
   zoom: 6,
 };
